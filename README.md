@@ -13,7 +13,10 @@ Smart Contract Auditor specializing in Solidity, with the ability to apply advan
 
 ---
 
+
 ### Latest Medium Posts
+
+
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samtdomi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@samtdomi/0" alt="Recent Article 0"> 
 
