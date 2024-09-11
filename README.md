@@ -11,6 +11,11 @@ Smart Contract Auditor specializing in Solidity, with the ability to apply advan
 * 🧠  I'm learning Everything Smart Contract Security
 * ⚡  I am very proficient in Foundry's Forge.
 
+---
+<!-- MEDIUM-POSTS-LISTS:START -->
+<!-- MEDIUM-POSTS-LISTS:END -->
+---
+
 ### Skills
 
 
