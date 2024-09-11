@@ -12,8 +12,16 @@ Smart Contract Auditor specializing in Solidity, with the ability to apply advan
 * ⚡  I am very proficient in Foundry's Forge.
 
 ---
-<!-- MEDIUM-POSTS-LISTS:START -->
-<!-- MEDIUM-POSTS-LISTS:END -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samtdomi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@samtdomi/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samtdomi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@samtdomi/1" alt="Recent Article 1"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samtdomi/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@samtdomi/2" alt="Recent Article 2"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samtdomi/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@samtdomi/3" alt="Recent Article 3"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samtdomi/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@samtdomi/4" alt="Recent Article 4"> 
+
 ---
 
 ### Skills
