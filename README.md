@@ -34,6 +34,8 @@ Smart Contract Auditor specializing in Solidity, with the ability to apply advan
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samtdomi/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@samtdomi/7" alt="Recent Article 7">
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samtdomi/8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@samtdomi/8" alt="Recent Article 8">
+
 ---
 
 ### Skills
