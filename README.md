@@ -6,7 +6,7 @@ I'm a Web3 Smart Contract Security Researcher with valid findings on Code4rena, 
 🚀 **[Check out my audit portfolio here →](https://samtdomi.github.io)**
 
 🔒 Top 10 C4 Auditor | Multiple Valid Highs | Passionate about DeFi Security
-======================================
+--------------------------------------------------
 
 Smart Contract Auditor. Security Researcher
 -------------------------------------------
