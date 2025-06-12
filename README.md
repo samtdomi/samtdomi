@@ -1,4 +1,11 @@
-Hi 👋 My name is Samuel Troy Dominguez
+# 👋 Hi, I'm Samuel Troydomi
+======================================
+
+I'm a Web3 Smart Contract Security Researcher with valid findings on Code4rena, CodeHawks, and Sherlock.
+
+🚀 **[Check out my audit portfolio here →](https://samtdomi.github.io)**
+
+🔒 Top 10 C4 Auditor | Multiple Valid Highs | Passionate about DeFi Security
 ======================================
 
 Smart Contract Auditor. Security Researcher
@@ -8,10 +15,12 @@ Smart Contract Auditor specializing in Solidity, with the ability to apply advan
 
 * 🌍  I'm based in Texas, United States
 * ✉️  You can contact me at [samueltroydomi@gmail.com](mailto:samueltroydomi@gmail.com)
-* 🧠  I'm learning Everything Smart Contract Security
-* ⚡  I am very proficient in Foundry's Forge.
+* 🧠  Follow my X account at [https://X.com/@fresco_io
 
 ---
+
+
+
 
 
 ### Latest Medium Posts
