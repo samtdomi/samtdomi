@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Samuel Troy, I'm a Web3 Security Researcher
-====================================================================
+# 👋 Hi,  I'm Samuel Troy,  I'm a Web3 Security Researcher
+
 
 
 I'm a proficient Web3 Smart Contract Security Researcher with valid findings on Code4rena, CodeHawks, and Sherlock.
