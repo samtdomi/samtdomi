@@ -1,17 +1,19 @@
 # 👋 Hi, I'm Samuel Troy Dominguez , I am a Web3 Security Researcher
-======================================
+====================================================================
 
 
-I'm a Web3 Smart Contract Security Researcher with valid findings on Code4rena, CodeHawks, and Sherlock.
+I'm a proficient Web3 Smart Contract Security Researcher with valid findings on Code4rena, CodeHawks, and Sherlock.
+
+---
 
 🚀 **[Check out my audit portfolio here →](https://samtdomi.github.io)**
 
-
+---
 
 🔒 Top 10 C4 Auditor | Multiple Valid Highs | Passionate about DeFi Security
 --------------------------------------------------
 
-
+---
 
 Smart Contract Auditor specializing in Solidity, with the ability to apply advanced knowledge of smart contract development to the business logic within a protocol's codebase in order to find vulnerabilities, write code to solve the vulnerabilities, and communicate the findings to the developers to further secure the protocol and web3.
 
