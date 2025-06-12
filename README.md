@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samuel Troy Dominguez , I am a Web3 Security Researcher
+# 👋 Hi, I'm Samuel Troy, I'm a Web3 Security Researcher
 ====================================================================
 
 
