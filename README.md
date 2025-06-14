@@ -30,6 +30,7 @@ Smart Contract Auditor specializing in Solidity, with the ability to apply advan
 
 - **Code4rena Profile:** [https://code4rena.com/@Samueltroydomi](https://code4rena.com/@Samueltroydomi)
 - **Sherlock Contributions:** [Sherlock Finding](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/117)
+- **CodeHawks Profile:** [https://profiles.cyfrin.io/u/fresh](https://profiles.cyfrin.io/u/fresh)
 - **GitHub:** [https://github.com/samtdomi](https://github.com/samtdomi)
 - X : [https://X.com/@fresco_io](https://X.com/@fresco_io)
 
