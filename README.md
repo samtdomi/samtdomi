@@ -42,6 +42,18 @@ Smart Contract Auditor specializing in Solidity, with the ability to apply advan
 
 ---
 
+## 🏅 Notable Audit Achievements
+
+| #  | Protocol       | Platform   | Severity   | Language | Result       | Link                                                                 |
+|----|----------------|------------|------------|----------|--------------|----------------------------------------------------------------------|
+| 1  | SecondSwap     | Code4rena  | 🟥 High    | Solidity | #7 Finish    | [Link](https://code4rena.com/audits/2025-03-silo-finance/submissions/S-540)       |
+| 2  | IQ AI          | Sherlock   | 🟥 High    | Solidity | #12 Finish   | [Link](https://code4rena.com/audits/2025-01-iq-ai/submissions/S-333)              |
+| 3  | Liquid Ron     | Code4rena  | 🟧 Medium  | Solidity | #12 Finish   | [Link](https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-101)         |
+| 4  | Benqi Ignite   | CodeHawks  | 🟧 Medium  | Solidity | #13 Finish   | [Link](https://codehawks.cyfrin.io/c/2025-01-benqi/s/cm67961lx000591sw8de4loom)   |
+
+
+
+
 ## 🔍 Audit Findings
 
 ### 📘 Code4rena Submissions
