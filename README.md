@@ -71,7 +71,16 @@ These consistent top-tier finishes reflect my ability to compete at the highest 
 | 5  | Superfluid Locker System  | Sherlock    | 🟥 High   | Solidity  | #8 Finish     | [Link](https://github.com/sherlock-audit/2025-06-superfluid-locker-system-judging/issues/130) |
 
 
+---
 
+## Private Engagements
+All undisclosed engagements can be backed with a reference, in case of interest
+
+| Date        | Protocol    | Format                                 |
+|-------------|-------------|----------------------------------------|
+| June 2025   | Wild Protocol | Assistant Security Researcher w/ Lead Auditor |
+
+---
 
 
 ## 🔍 Audit Findings
