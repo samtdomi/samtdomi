@@ -36,6 +36,29 @@ Smart Contract Auditor specializing in Solidity, with the ability to apply advan
 
 ---
 
+## Private Audits
+
+All undisclosed engagements can be backed with a reference, in case of interest
+
+| Date           | Audit Company     | Protocol / Project                     | Role    |
+| --------------- | ----------------- | -------------------------------------- | ------- |
+| July 2025       | Kann Audits       | Wild Protocol  ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/Wild%20Protocol.pdf))                      | ASR     |
+| July 2025       | Radcipher         | Bify Protocol ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/2025-07-19-Bify-Audit-Report.pdf)) | ASR     |
+| July 2025       | Shieldfy Security | Leverage / Bond Protocol               | ASR     |
+| July 2025       | 33 Audits         | Torus-Finance ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/torus_audit_report.pdf)) | ASR     |
+| August 2025     | 33 Audits         | Unity ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/unity_audit_report.pdf)) | ASR     |
+| August 2025     | 33 Audits         | Torus-NFT                              | ASR     |
+| August 2025     | 33 Audits         | ITRY-Invertor                          | ASR     |
+| September 2025  | 33 Audits         | @kakondu VII Finance                   | ASR     |
+| September 2025  | 33 Audits         | Plazm ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/plazm_audit_report.pdf)) | ASR |
+| September 2025  | Shieldfy Security | LaunchPad                              | ASR |
+| September 2025  | 33 Audits         | Torus-NFT #2                           | ASR |
+| October 2025    | 33 Audits         | Coinwell Liquity                       | ASR |
+| October 2025    | 33 Audits         | P Eazy Mode                            | ASR |
+| November 2025   | 33 Audits         | Switch-X                               | ASR |
+
+---
+
 ## 🏆 Highlight: Top 10 Finish — Code4rena
 
 > Finished **#7 overall** in the Silo Finance audit on Code4rena.
@@ -72,27 +95,6 @@ These consistent top-tier finishes reflect my ability to compete at the highest 
 
 
 ---
-
-## Private Audits
-
-All undisclosed engagements can be backed with a reference, in case of interest
-
-| Date           | Audit Company     | Protocol / Project                     | Role    |
-| --------------- | ----------------- | -------------------------------------- | ------- |
-| July 2025       | Kann Audits       | Wild Protocol                          | ASR     |
-| July 2025       | Radcipher         | Bify Protocol ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/2025-07-19-Bify-Audit-Report.pdf)) | ASR     |
-| July 2025       | Shieldfy Security | Leverage / Bond Protocol               | ASR     |
-| July 2025       | 33 Audits         | Torus-Finance ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/torus_audit_report.pdf)) | ASR     |
-| August 2025     | 33 Audits         | Unity ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/unity_audit_report.pdf)) | ASR     |
-| August 2025     | 33 Audits         | Torus-NFT                              | ASR     |
-| August 2025     | 33 Audits         | ITRY-Invertor                          | ASR     |
-| September 2025  | 33 Audits         | @kakondu VII Finance                   | ASR     |
-| September 2025  | 33 Audits         | Plazm ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/plazm_audit_report.pdf)) | Lead SR |
-| September 2025  | 33 Audits         | Torus-NFT #2                           | Lead SR |
-
-
----
-
 
 ## 🔍 Audit Findings
 
