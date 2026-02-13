@@ -41,7 +41,7 @@ Smart Contract Auditor specializing in Solidity, with the ability to apply advan
 All undisclosed engagements can be backed with a reference, in case of interest.
 
 
-**Highlight:**
+**Highlight - Liquid Launch:**
 
 The **Liquid Launch** audit was conducted on the exact same scope as a prior audit performed by a Tier-1 security firm.  
 Our team was engaged one week after their review had concluded, as the protocol team sought an additional independent assessment before deployment.
