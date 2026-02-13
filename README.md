@@ -38,7 +38,21 @@ Smart Contract Auditor specializing in Solidity, with the ability to apply advan
 
 ## Private Audits
 
-All undisclosed engagements can be backed with a reference, in case of interest
+All undisclosed engagements can be backed with a reference, in case of interest.
+
+
+### Highlight — Liquid Launch
+
+The **Liquid Launch** audit was conducted on the exact same scope as a prior audit performed by a Tier-1 security firm.  
+Our team was engaged one week after their review had concluded, as the protocol team sought an additional independent assessment before deployment.
+
+I uncovered a crucial high-impact finding that required a complete architectural change of the protocol — a finding that was missed in the prior review — as well as multiple other impactful issues.
+
+They came to us because they wanted an additional audit to ensure they were secure before deployment.  
+
+Now, the protocol has successfully deployed securely.
+
+I take a lot of pride in this contribution. Out of 33 audits, I was trusted as the final line of defense before deployment. Despite having just been audited by a respected `Tier 1` company, I identified an issue severe enough to require architectural changes — protecting the protocol’s reputation and user funds — and saw the protocol deploy successfully afterward.
 
 | Date           | Audit Company     | Protocol / Project                     | Role    |
 | --------------- | ----------------- | -------------------------------------- | ------- |
