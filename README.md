@@ -57,6 +57,7 @@ All undisclosed engagements can be backed with a reference, in case of interest
 | October 2025    | 33 Audits         | P Eazy Mode                            | ASR |
 | November 2025   | 33 Audits         | Switch-X ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/SwitchX-audit-report.pdf))                                | ASR |
 | December 2025   | 33 Audits         | FortuneFi                               | ASR |
+| January 2026    | 33 Audits         | Liquid Launch                           | ASR |
 
 ---
 
